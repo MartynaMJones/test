@@ -1,4 +1,4 @@
--- yes
+-- yes...
 
 -- The latest item - loc - segment data
 -- Cut down the table so easier on the join
